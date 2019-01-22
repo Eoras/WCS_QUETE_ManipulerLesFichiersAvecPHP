@@ -1,0 +1,23 @@
+body{
+    font-family: "Courier New", serif;
+    color: green;
+    font-size: 16px;
+    background-color: #060606;
+}
+
+h1, h2, h3, h4,
+strong{
+    font-family: 'Special Elite', "Courier New", serif;
+}
+
+h1{
+    font-size: 5rem;
+}
+strong{
+    font-size: 1.1em;
+}
+
+.fileType {
+    height: 16px;
+    margin-right: 10px;
+}
